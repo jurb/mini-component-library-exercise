@@ -1,3 +1,6 @@
+This is my solution for workshop #3 of [Josh W Comeau's fun & excellent css course](https://css-for-js.dev/).
+
+
 # Component Library Workshop
 
 In this workshop, we'll build 3 components from scratch:
